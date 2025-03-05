@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚛️ React Router.md",
+                "file": "1️⃣ React Router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⚛️ React Router"
+              "title": "1️⃣ React Router"
+            }
+          },
+          {
+            "id": "ec7297b02063fb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2️⃣ React Hooks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2️⃣ React Hooks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚛️ React Router.md",
+                "file": "2️⃣ React Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para ⚛️ React Router"
+              "title": "Links inversos para 2️⃣ React Hooks"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚛️ React Router.md",
+                "file": "2️⃣ React Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para ⚛️ React Router"
+              "title": "Links de saída para 2️⃣ React Hooks"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚛️ React Router.md",
+                "file": "2️⃣ React Hooks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ⚛️ React Router"
+              "title": "Sumário de 2️⃣ React Hooks"
             }
           }
         ]
@@ -168,10 +183,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "216bb9b4446c4358",
+  "active": "ec7297b02063fb79",
   "lastOpenFiles": [
+    "1️⃣ React Router.md",
+    "2️⃣ React Hooks.md",
     "📚 Aprendendo Obsidian Comands.md",
-    "⚛️ React Router.md",
     "Pasted image 20250305122004.png",
     "Bem-vindo.md"
   ]
