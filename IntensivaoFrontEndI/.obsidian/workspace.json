@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2️⃣ React Hooks"
             }
+          },
+          {
+            "id": "8ccb1fb7311a3a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3️⃣ React Redux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3️⃣ React Redux"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2️⃣ React Hooks.md",
+                "file": "3️⃣ React Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2️⃣ React Hooks"
+              "title": "Links inversos para 3️⃣ React Redux"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2️⃣ React Hooks.md",
+                "file": "3️⃣ React Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 2️⃣ React Hooks"
+              "title": "Links de saída para 3️⃣ React Redux"
             }
           },
           {
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2️⃣ React Hooks.md",
+                "file": "3️⃣ React Redux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2️⃣ React Hooks"
+              "title": "Sumário de 3️⃣ React Redux"
             }
           }
         ]
@@ -183,10 +197,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec7297b02063fb79",
+  "active": "8ccb1fb7311a3a4e",
   "lastOpenFiles": [
-    "1️⃣ React Router.md",
     "2️⃣ React Hooks.md",
+    "3️⃣ React Redux.md",
+    "1️⃣ React Router.md",
     "📚 Aprendendo Obsidian Comands.md",
     "Pasted image 20250305122004.png",
     "Bem-vindo.md"
