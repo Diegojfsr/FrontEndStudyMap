@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "1d548b521e747c82",
+    "id": "ff35cde4ac77a6c4",
     "type": "split",
     "children": [
       {
-        "id": "26e58214ae3eb390",
+        "id": "f9de4e6bf4a6f5f6",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3b9a050ba514fa",
+            "id": "709cc1001bdfc87a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🟨 JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "🟨 JavaScript"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "805aa03187ce683a",
+    "id": "8891ed91b6035141",
     "type": "split",
     "children": [
       {
-        "id": "08bf92965437c588",
+        "id": "9348c15a1fcfa8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "c1fadf7ef9f83c5a",
+            "id": "15e1dd0c753c54ad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "7619ae563f2bbbc5",
+            "id": "13c01d2eb9f67d4e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "c09451f5969da0f3",
+            "id": "76105e212f76163f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +81,15 @@
     "width": 200
   },
   "right": {
-    "id": "371fbafccd8523fe",
+    "id": "5a01b06ff84b1177",
     "type": "split",
     "children": [
       {
-        "id": "2b6ade846dce05da",
+        "id": "9379b1bd9121cc48",
         "type": "tabs",
         "children": [
           {
-            "id": "5bca4874763d4135",
+            "id": "152d80645e5c637d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "d243dfb16e3adbb3",
+            "id": "2d6047b2adcf0153",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +120,7 @@
             }
           },
           {
-            "id": "299a0e894d818a2d",
+            "id": "a5bae6bbe685492e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +135,7 @@
             }
           },
           {
-            "id": "9e39b0ffc8afbd90",
+            "id": "b4c48d2b15cb6210",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,17 +165,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c1fadf7ef9f83c5a",
+  "active": "709cc1001bdfc87a",
   "lastOpenFiles": [
-    "7️⃣ React Jest.md",
-    "6️⃣ React Webpack.md",
-    "5️⃣ Styled Components.md",
-    "4️⃣ Contex API.md",
-    "3️⃣ React Redux.md",
-    "2️⃣ React Hooks.md",
-    "1️⃣ React Router.md",
-    "📚 Aprendendo Obsidian Comands.md",
-    "Pasted image 20250305122004.png",
+    "Sem título.md",
+    "🟨 JavaScript.md",
+    "🟩 NodeJs.md",
+    "ReactJs.md",
+    "NextJs.md",
+    "TypeScript.md",
+    "Pasted image 20250305133721.png",
+    "Pasted image 20250305133644.png",
     "Bem-vindo.md"
   ]
 }
