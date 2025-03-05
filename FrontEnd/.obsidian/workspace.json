@@ -1,37 +1,56 @@
 {
   "main": {
-    "id": "1d548b521e747c82",
+    "id": "d58c8c2d5dea12d7",
     "type": "split",
     "children": [
       {
-        "id": "26e58214ae3eb390",
+        "id": "0ef79565e443cf23",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3b9a050ba514fa",
+            "id": "9c11ef3215c5af9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IntensivaoFrontEndI/1️⃣ React Router.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1️⃣ React Router"
+            }
+          },
+          {
+            "id": "9df8337a7c0672c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntensivaoFrontEndI/1️⃣.1️⃣ React Router Fundamentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1️⃣.1️⃣ React Router Fundamentos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "805aa03187ce683a",
+    "id": "ddda80071cb8b119",
     "type": "split",
     "children": [
       {
-        "id": "08bf92965437c588",
+        "id": "f5ec276e4095c6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "c1fadf7ef9f83c5a",
+            "id": "cce5fb8e018e3afd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +63,7 @@
             }
           },
           {
-            "id": "7619ae563f2bbbc5",
+            "id": "de273aefd4029dad",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +80,7 @@
             }
           },
           {
-            "id": "c09451f5969da0f3",
+            "id": "43d44ba4fe9bc372",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,22 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "371fbafccd8523fe",
+    "id": "e70e0d4e38af4c0e",
     "type": "split",
     "children": [
       {
-        "id": "2b6ade846dce05da",
+        "id": "8ee02b11020cd261",
         "type": "tabs",
         "children": [
           {
-            "id": "5bca4874763d4135",
+            "id": "f603a6a7be7ebf1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IntensivaoFrontEndI/7️⃣ React Jest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para 7️⃣ React Jest"
             }
           },
           {
-            "id": "d243dfb16e3adbb3",
+            "id": "599ba53ae8a80801",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IntensivaoFrontEndI/7️⃣ React Jest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para 7️⃣ React Jest"
             }
           },
           {
-            "id": "299a0e894d818a2d",
+            "id": "8bf374fa3ad2e5a2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +152,18 @@
             }
           },
           {
-            "id": "9e39b0ffc8afbd90",
+            "id": "503af091812aa921",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "IntensivaoFrontEndI/7️⃣ React Jest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 7️⃣ React Jest"
             }
           }
         ]
@@ -161,17 +183,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c1fadf7ef9f83c5a",
+  "active": "9df8337a7c0672c6",
   "lastOpenFiles": [
-    "7️⃣ React Jest.md",
-    "6️⃣ React Webpack.md",
-    "5️⃣ Styled Components.md",
-    "4️⃣ Contex API.md",
-    "3️⃣ React Redux.md",
-    "2️⃣ React Hooks.md",
-    "1️⃣ React Router.md",
-    "📚 Aprendendo Obsidian Comands.md",
-    "Pasted image 20250305122004.png",
+    "IntensivaoFrontEndI/1️⃣ React Router.md",
+    "IntensivaoFrontEndI/1️⃣.1️⃣ React Router Fundamentos.md",
+    "IntensivaoFrontEndII/🟩 NodeJs.md",
+    "IntensivaoFrontEndII/🟨 JavaScript.md",
+    "IntensivaoFrontEndII/🟦 TypeScript.md",
+    "IntensivaoFrontEndII/🌐 NextJs.md",
+    "IntensivaoFrontEndII/⚛️ ReactJs.md",
+    "IntensivaoFrontEndI/7️⃣ React Jest.md",
+    "IntensivaoFrontEndI/6️⃣ React Webpack.md",
+    "IntensivaoFrontEndI/5️⃣ Styled Components.md",
+    "IntensivaoFrontEndI/4️⃣ Contex API.md",
+    "IntensivaoFrontEndI/3️⃣ React Redux.md",
+    "IntensivaoFrontEndI/2️⃣ React Hooks.md",
+    "IntensivaoFrontEndII/Bem-vindo.md",
+    "IntensivaoFrontEndII",
+    "IntensivaoFrontEndI/Bem-vindo.md",
+    "IntensivaoFrontEndI",
     "Bem-vindo.md"
   ]
 }

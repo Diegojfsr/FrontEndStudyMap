@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "ff35cde4ac77a6c4",
+    "id": "49c6ea879787bae7",
     "type": "split",
     "children": [
       {
-        "id": "8f3957d30a8fba62",
+        "id": "cee41f8806995a30",
         "type": "tabs",
         "children": [
           {
-            "id": "11ac0b066e5c7bcb",
+            "id": "0111979c78050cb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚛️ ReactJs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "⚛️ ReactJs"
-            }
-          },
-          {
-            "id": "5197e6f3fec81b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌐 NextJs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🌐 NextJs"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8891ed91b6035141",
+    "id": "3a7554e2edbda022",
     "type": "split",
     "children": [
       {
-        "id": "9348c15a1fcfa8d3",
+        "id": "07b325ce311771f6",
         "type": "tabs",
         "children": [
           {
-            "id": "15e1dd0c753c54ad",
+            "id": "c937369ba8beacbc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +44,7 @@
             }
           },
           {
-            "id": "13c01d2eb9f67d4e",
+            "id": "4237ec0845a0395b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +61,7 @@
             }
           },
           {
-            "id": "76105e212f76163f",
+            "id": "e138927601416452",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,64 +74,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5a01b06ff84b1177",
+    "id": "2c83d155403b375f",
     "type": "split",
     "children": [
       {
-        "id": "9379b1bd9121cc48",
+        "id": "1236ebca836aedf4",
         "type": "tabs",
         "children": [
           {
-            "id": "152d80645e5c637d",
+            "id": "0e6c0c8093d8ec9c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐 NextJs.md",
+                "file": "Bem-vindo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 🌐 NextJs"
+              "title": "Links inversos para Bem-vindo"
             }
           },
           {
-            "id": "2d6047b2adcf0153",
+            "id": "bc05c5de274ebe09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bem-vindo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Bem-vindo"
             }
           },
           {
-            "id": "23278a755eb0c090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🟦 TypeScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🟦 TypeScript"
-            }
-          },
-          {
-            "id": "a5bae6bbe685492e",
+            "id": "9f6864382581a839",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,22 +133,21 @@
             }
           },
           {
-            "id": "b4c48d2b15cb6210",
+            "id": "c937e13c7e81605e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐 NextJs.md",
-                "followCursor": true,
+                "file": "Bem-vindo.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 🌐 NextJs"
+              "title": "Sumário de Bem-vindo"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,18 +164,8 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5197e6f3fec81b5d",
+  "active": "0111979c78050cb2",
   "lastOpenFiles": [
-    "⚛️ ReactJs.md",
-    "🌐 NextJs.md",
-    "🟩 NodeJs.md",
-    "🟦 TypeScript.md",
-    "🟦 TypeScript/TypeScript Fundamentos.md",
-    "🟦 TypeScript",
-    "🟨 JavaScript.md",
-    "🌐 NextJs.md",
-    "Pasted image 20250305133721.png",
-    "Pasted image 20250305133644.png",
     "Bem-vindo.md"
   ]
 }
