@@ -1,4 +1,3 @@
-![Sou uma imagem](https://i.pinimg.com/736x/9d/a5/da/9da5daf894756f7bafcecfd184180868.jpg)  
 
 
 - [ ] Dia 1: Fundamentos do React Router
