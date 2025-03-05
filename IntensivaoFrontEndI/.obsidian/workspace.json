@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "216bb9b4446c4358",
+            "id": "4de5d7384cbdd44a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣ React Router.md",
+                "file": "5️⃣ Styled Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1️⃣ React Router"
-            }
-          },
-          {
-            "id": "ec7297b02063fb79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2️⃣ React Hooks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2️⃣ React Hooks"
-            }
-          },
-          {
-            "id": "8ccb1fb7311a3a4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3️⃣ React Redux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3️⃣ React Redux"
-            }
-          },
-          {
-            "id": "cfcf8a79d720e657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4️⃣ Contex API.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4️⃣ Contex API"
+              "title": "5️⃣ Styled Components"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "371fbafccd8523fe",
@@ -137,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4️⃣ Contex API.md",
+                "file": "5️⃣ Styled Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 4️⃣ Contex API"
+              "title": "Links inversos para 5️⃣ Styled Components"
             }
           },
           {
@@ -156,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4️⃣ Contex API.md",
+                "file": "5️⃣ Styled Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 4️⃣ Contex API"
+              "title": "Links de saída para 5️⃣ Styled Components"
             }
           },
           {
@@ -185,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4️⃣ Contex API.md",
+                "file": "5️⃣ Styled Components.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 4️⃣ Contex API"
+              "title": "Sumário de 5️⃣ Styled Components"
             }
           }
         ]
@@ -211,10 +169,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cfcf8a79d720e657",
+  "active": "4de5d7384cbdd44a",
   "lastOpenFiles": [
-    "3️⃣ React Redux.md",
     "4️⃣ Contex API.md",
+    "5️⃣ Styled Components.md",
+    "3️⃣ React Redux.md",
     "2️⃣ React Hooks.md",
     "1️⃣ React Router.md",
     "📚 Aprendendo Obsidian Comands.md",
