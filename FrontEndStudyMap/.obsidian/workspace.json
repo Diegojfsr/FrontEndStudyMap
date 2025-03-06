@@ -11,14 +11,10 @@
             "id": "f122175b3decc269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bem-vindo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bem-vindo"
+              "title": "Nova aba"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bem-vindo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Bem-vindo"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bem-vindo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Bem-vindo"
+              "title": "Links de saída"
             }
           },
           {
@@ -168,8 +162,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f122175b3decc269",
+  "active": "07a4aa13ca4845ca",
   "lastOpenFiles": [
+    "IntensivaoFrontEndII",
+    "IntensivaoFrontEndI",
     "Bem-vindo.md"
   ]
 }
