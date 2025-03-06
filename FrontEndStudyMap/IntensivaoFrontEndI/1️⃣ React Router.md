@@ -5,7 +5,7 @@
 	- [ ] Instalação e Configuração: Instale o React Router e configure seu ambiente de desenvolvimento.
 	- [ ] Primeira Rota: Crie uma rota básica e entenda como funciona.
 
-- [ ] Dia 2: [[1️⃣.2️⃣ React Router Rotas Básicas]]
+- [ ] Dia 2: [[1️⃣.2️⃣ React Router Rotas Basicas]]
 	- [ ] Rotas Simples: Criação de rotas simples e navegação entre elas.  
 	- [ ] Link Component: Uso do componente Link para navegação.  
 	- [ ] Navegação Programática: Uso de navegação programática para redirecionamento.
