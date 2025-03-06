@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "49c6ea879787bae7",
+    "id": "f9298b35181a805a",
     "type": "split",
     "children": [
       {
-        "id": "cee41f8806995a30",
+        "id": "1feeff73904055b9",
         "type": "tabs",
         "children": [
           {
-            "id": "0111979c78050cb2",
+            "id": "f122175b3decc269",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Bem-vindo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bem-vindo"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3a7554e2edbda022",
+    "id": "200d0acc6f3eae6e",
     "type": "split",
     "children": [
       {
-        "id": "07b325ce311771f6",
+        "id": "216cdc6f4bc332c2",
         "type": "tabs",
         "children": [
           {
-            "id": "c937369ba8beacbc",
+            "id": "07a4aa13ca4845ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "4237ec0845a0395b",
+            "id": "eb2be4241eaac0b1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "e138927601416452",
+            "id": "6480a972194c8c4a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "2c83d155403b375f",
+    "id": "15b141b10b21cdf8",
     "type": "split",
     "children": [
       {
-        "id": "1236ebca836aedf4",
+        "id": "d3e422a6e830644a",
         "type": "tabs",
         "children": [
           {
-            "id": "0e6c0c8093d8ec9c",
+            "id": "2b99dd1444e35ba6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -104,7 +108,7 @@
             }
           },
           {
-            "id": "bc05c5de274ebe09",
+            "id": "a4a3cb9e4207629c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +122,7 @@
             }
           },
           {
-            "id": "9f6864382581a839",
+            "id": "5de8090f7003ef7e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "c937e13c7e81605e",
+            "id": "198344e7a721c56f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -164,7 +168,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0111979c78050cb2",
+  "active": "f122175b3decc269",
   "lastOpenFiles": [
     "Bem-vindo.md"
   ]
