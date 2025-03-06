@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f9298b35181a805a",
+    "id": "7298280a8d400203",
     "type": "split",
     "children": [
       {
-        "id": "1feeff73904055b9",
+        "id": "0c66abba0424ba57",
         "type": "tabs",
         "children": [
           {
-            "id": "f122175b3decc269",
+            "id": "abf265fd86533ca3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "200d0acc6f3eae6e",
+    "id": "d9319ae3b74742ec",
     "type": "split",
     "children": [
       {
-        "id": "216cdc6f4bc332c2",
+        "id": "456dc4ec1d991cac",
         "type": "tabs",
         "children": [
           {
-            "id": "07a4aa13ca4845ca",
+            "id": "e777ba3fb8b01103",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "eb2be4241eaac0b1",
+            "id": "c131708246e5f0aa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "6480a972194c8c4a",
+            "id": "363eba63b464a1c7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "15b141b10b21cdf8",
+    "id": "cc468fc6ecaae72b",
     "type": "split",
     "children": [
       {
-        "id": "d3e422a6e830644a",
+        "id": "00d4ced6db9f04e3",
         "type": "tabs",
         "children": [
           {
-            "id": "2b99dd1444e35ba6",
+            "id": "1535ad7037c7a363",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "a4a3cb9e4207629c",
+            "id": "9401551e8cdd9fe4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "5de8090f7003ef7e",
+            "id": "99d0be666d9810af",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "198344e7a721c56f",
+            "id": "73502f3cb3c0738a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,26 +161,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "07a4aa13ca4845ca",
-  "lastOpenFiles": [
-    "IntensivaoFrontEndII/🌐 NextJs.md",
-    "IntensivaoFrontEndII/⚛️ ReactJs.md",
-    "IntensivaoFrontEndII/🟩 NodeJs.md",
-    "IntensivaoFrontEndII/🟦 TypeScript.md",
-    "IntensivaoFrontEndII/🟨 JavaScript.md",
-    "IntensivaoFrontEndI/1️⃣.1️⃣ React Router Fundamentos.md",
-    "IntensivaoFrontEndI/1️⃣.2️⃣ React Router Rotas Basicas.md",
-    "IntensivaoFrontEndI/1️⃣ React Router.md",
-    "1️⃣.1️⃣ React Router Fundamentos.md",
-    "IntensivaoFrontEndI/7️⃣ React Jest.md",
-    "IntensivaoFrontEndI/6️⃣ React Webpack.md",
-    "IntensivaoFrontEndI/5️⃣ Styled Components.md",
-    "IntensivaoFrontEndI/4️⃣ Contex API.md",
-    "1️⃣.2️⃣ React Router Rotas Básicas.md",
-    "IntensivaoFrontEndI/3️⃣ React Redux.md",
-    "IntensivaoFrontEndI/2️⃣ React Hooks.md",
-    "Bem-vindo.md",
-    "IntensivaoFrontEndII",
-    "IntensivaoFrontEndI"
-  ]
+  "active": "abf265fd86533ca3",
+  "lastOpenFiles": []
 }
