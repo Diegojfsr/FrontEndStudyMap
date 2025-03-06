@@ -11,10 +11,14 @@
             "id": "f122175b3decc269",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IntensivaoFrontEndI/1️⃣ React Router.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1️⃣ React Router"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IntensivaoFrontEndI/1️⃣ React Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para 1️⃣ React Router"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IntensivaoFrontEndI/1️⃣ React Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para 1️⃣ React Router"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "IntensivaoFrontEndI/1️⃣ React Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Bem-vindo"
+              "title": "Sumário de 1️⃣ React Router"
             }
           }
         ]
@@ -162,10 +168,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "07a4aa13ca4845ca",
+  "active": "f122175b3decc269",
   "lastOpenFiles": [
+    "IntensivaoFrontEndI/7️⃣ React Jest.md",
+    "IntensivaoFrontEndI/1️⃣ React Router.md",
+    "Bem-vindo.md",
+    "IntensivaoFrontEndI/6️⃣ React Webpack.md",
+    "IntensivaoFrontEndI/5️⃣ Styled Components.md",
+    "IntensivaoFrontEndI/4️⃣ Contex API.md",
+    "IntensivaoFrontEndI/3️⃣ React Redux.md",
+    "IntensivaoFrontEndI/2️⃣ React Hooks.md",
+    "IntensivaoFrontEndI/1️⃣.2️⃣ React Router Rotas Básicas.md",
+    "IntensivaoFrontEndI/1️⃣.1️⃣ React Router Fundamentos.md",
     "IntensivaoFrontEndII",
-    "IntensivaoFrontEndI",
-    "Bem-vindo.md"
+    "IntensivaoFrontEndI"
   ]
 }
