@@ -1,16 +1,16 @@
 
 
-- [ ] Dia 1: [[1️⃣.1️⃣ React Router Fundamentos]]
+- [ ] Dia 1: [[1️⃣.1️⃣ Fundamentos do React Router]]
 	- [ ] Introdução ao React Router: O que é e por que usar.
 	- [ ] Instalação e Configuração: Instale o React Router e configure seu ambiente de desenvolvimento.
 	- [ ] Primeira Rota: Crie uma rota básica e entenda como funciona.
 
-- [ ] Dia 2: [[1️⃣.2️⃣ React Router Rotas Basicas]]
+- [ ] Dia 2: [[1️⃣.2️⃣ Rotas Basicas e Navegacao]]
 	- [ ] Rotas Simples: Criação de rotas simples e navegação entre elas.  
 	- [ ] Link Component: Uso do componente Link para navegação.  
 	- [ ] Navegação Programática: Uso de navegação programática para redirecionamento.
 
-- [ ] Dia 3: Rotas Aninhadas e Parâmetros
+- [ ] Dia 3: [[1️⃣.3️⃣ Rotas Aninhadas e Parametros]]
 	- [ ] Rotas Aninhadas: Criação de rotas aninhadas.  
 	- [ ] Parâmetros de Rota: Trabalhando com parâmetros de rota.  
 	- [ ] Hooks de Roteamento: Uso de hooks como useParams e useRouteMatch
