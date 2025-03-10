@@ -15,7 +15,7 @@
 	- [ ] Parâmetros de Rota: Trabalhando com parâmetros de rota.  
 	- [ ] Hooks de Roteamento: Uso de hooks como useParams e useRouteMatch
 
-- [ ] Dia 4: Proteção de Rotas
+- [ ] Dia 4: [[1️⃣.4️⃣ Protecao de Rotas]]
 	- [ ] Rotas Protegidas: Implementação de rotas protegidas.  
 	- [ ] Autenticação: Controle de acesso a rotas com autenticação.  
 	- [ ] Redirecionamento: Uso de redirecionamento condicional.
