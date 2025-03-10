@@ -20,12 +20,12 @@
 	- [ ] Autenticação: Controle de acesso a rotas com autenticação.  
 	- [ ] Redirecionamento: Uso de redirecionamento condicional.
 
-- [ ] Dia 5: Rotas Dinâmicas e Lazy Loading
+- [ ] Dia 5: [[1️⃣.5️⃣ Rotas Dinamicas e Lazy Loading]]
 	- [ ] Rotas Dinâmicas: Criação de rotas dinâmicas.  
 	- [ ] Lazy Loading: Carregamento preguiçoso de componentes.  
 	- [ ] Suspense e Error Boundaries: Uso de Suspense e Error Boundaries para melhorar a experiência do usuário.
 
-- [ ] Dia 6: Transições e Animações
+- [ ] Dia 6: [[1️⃣.6️⃣ Transicoes e Animacoes]]
 	- [ ] Transições de Página: Implementação de transições de página.  
 	- [ ] Animações: Uso de bibliotecas de animação com React Router.  
 	- [ ] Experiência do Usuário: Melhoria da experiência do usuário com animações suaves
