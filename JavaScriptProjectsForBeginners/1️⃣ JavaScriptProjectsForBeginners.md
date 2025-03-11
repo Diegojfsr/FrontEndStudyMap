@@ -6,7 +6,7 @@ Experimente adicionar novos recursos ou usar métodos diferentes. Isso testará 
 
 ## Vanilla JavaScript Projects
 
-- [ ] Como criar um Color Flipper
+- [ ] Como criar um [[1️⃣.1️⃣ Color Flipper]]
 - [ ] Como criar um contador
 - [ ] Como criar um carrossel de avaliações
 - [ ] Como criar uma barra de navegação responsiva
