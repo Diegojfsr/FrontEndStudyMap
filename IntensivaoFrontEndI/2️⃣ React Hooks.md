@@ -5,12 +5,12 @@
 	- [ ] useState: Uso do hook useState para gerenciar estado.
 	- [ ] useEffect: Uso do hook useEffect para efeitos colaterais.
 
-- [ ] Dia 2: Hooks Adicionais
+- [ ] Dia 2: [[2️⃣.2️⃣ Hooks Adicionais]]
 	- [ ] useContext: Uso do hook useContext para acessar o contexto.
 	- [ ] useReducer: Introdução ao hook useReducer para gerenciamento de estado complexo.
 	- [ ] useCallback: Uso do hook useCallback para memorização de funções.
 
-- [ ] Dia 3: Hooks de Referência
+- [ ] Dia 3: [[2️⃣.3️⃣ Hooks de Referencia]]
 	- [ ] useRef: Uso do hook useRef para acessar elementos DOM e armazenar valores mutáveis.
 	- [ ] useMemo: Uso do hook useMemo para memorização de valores.
 	- [ ] useLayoutEffect: Diferenças entre useEffect e useLayoutEffect.
