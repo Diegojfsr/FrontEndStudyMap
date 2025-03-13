@@ -20,7 +20,7 @@
 	- [ ] Reutilização de Lógica: Uso de hooks personalizados para reutilizar lógica.
 	- [ ] Exemplos Práticos: Criação de alguns hooks personalizados.
 
-- [ ] Dia 5: Casos de Uso Avançados
+- [ ] Dia 5: Casos de Uso Avançados [[2️⃣.5️⃣ Casos de Uso Avancados]]
 	- [ ] Hooks em Componentes de Classe: Como migrar componentes de classe para hooks.
 	- [ ] Gerenciamento de Estado Global: Uso de hooks com Context API para estado global.
 	- [ ] Performance: Técnicas para otimizar a performance com hooks.

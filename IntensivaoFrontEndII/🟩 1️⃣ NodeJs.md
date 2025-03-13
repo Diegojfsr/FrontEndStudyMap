@@ -1,7 +1,7 @@
 
 
 
-- [ ] Dia 1: Fundamentos do Next.js
+- [ ] Dia 1: [[🟩 1️⃣.1️⃣ Fundamentos do Node js]]
 	- [ ] Introdução ao Node.js: O que é e por que usar.
 	- [ ] Instalação e Configuração: Instale o Node.jse configure seu ambiente de desenvolvimento.
 	- [ ] Primeiro Script: Crie um script simples para entender a execução no Node.js.
