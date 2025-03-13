@@ -15,7 +15,7 @@
 	- [ ] useMemo: Uso do hook useMemo para memorização de valores.
 	- [ ] useLayoutEffect: Diferenças entre useEffect e useLayoutEffect.
 
-- [ ] Dia 4: Hooks Personalizados
+- [ ] Dia 4: [[2️⃣.4️⃣ Hooks Personalizados]]
 	- [ ] Criando Hooks Personalizados: Como criar seus próprios hooks.
 	- [ ] Reutilização de Lógica: Uso de hooks personalizados para reutilizar lógica.
 	- [ ] Exemplos Práticos: Criação de alguns hooks personalizados.
