@@ -7,13 +7,13 @@
 	- [ ] Primeiro Script: Crie um script simples para entender a execução no Node.js.
 
 
-- [ ] Dia 2: Modulos e NPM
+- [ ] Dia 2: [[🟩 1️⃣.2️⃣ Modulos e NPM]]
 	- [ ] Módulos: Entenda o sistema de módulos do Node.js.
 	- [ ] NPM: Uso do Node Package Manager (NPM) para gerenciar dependências.
-	- [ ] Pacotes Essenciais: Instale e use pacotes populares como express, lodash, etc.
+	- [ ] Pacotes Essenciais: Instale e use pacotes populares como express, lodash.
 
 
-- [ ] Dia 3: Servidor HTTP
+- [ ] Dia 3: [[🟩 1️⃣.3️⃣ Servidor HTTP]]
 	- [ ] Servidor HTTP: Criação de um servidor HTTP básico.
 	- [ ] Rotas: Definição de rotas para diferentes endpoints.
 	- [ ] Middlewares: Uso de middlewares para manipulação de requisições.
