@@ -19,7 +19,7 @@
 	- [ ] Middlewares: Uso de middlewares para manipulação de requisições.
 
 
-- [ ] Dia 4: Banco de Dados
+- [ ] Dia 4: [[🟩 1️⃣.4️⃣ Banco de Dados]]
 	- [ ] MongoDB: Introdução ao MongoDB e instalação.
 	- [ ] Mongoose: Uso do Mongoose para modelagem de dados.
 	- [ ] CRUD: Implementação de operações CRUD (Create, Read, Update, Delete).
