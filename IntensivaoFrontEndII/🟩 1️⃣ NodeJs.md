@@ -7,7 +7,7 @@
 	- [ ] Primeiro Script: Crie um script simples para entender a execução no Node.js.
 
 
-- [ ] Dia 2: Módulos e NPM
+- [ ] Dia 2: Modulos e NPM
 	- [ ] Módulos: Entenda o sistema de módulos do Node.js.
 	- [ ] NPM: Uso do Node Package Manager (NPM) para gerenciar dependências.
 	- [ ] Pacotes Essenciais: Instale e use pacotes populares como express, lodash, etc.
