@@ -25,13 +25,13 @@
 	- [ ] CRUD: Implementação de operações CRUD (Create, Read, Update, Delete).
 
 
-- [ ] Dia 5: Autenticação e Autorização
+- [ ] Dia 5: [[🟩 1️⃣.5️⃣ Autenticacao e Autorizacao]]
 	- [ ] JWT: Implementação de autenticação com JSON Web Tokens.
 	- [ ] Autorização: Controle de acesso a rotas e recursos.
 	- [ ] Segurança: Melhores práticas de segurança no Node.js.
 
 
-- [ ] Dia 6: APIs RESTful
+- [ ] Dia 6: [[🟩 1️⃣.6️⃣ APIs RESTful]]
 	- [ ] APIs RESTful: Criação de APIs RESTful com Node.jse Express.
 	- [ ] Validação de Dados: Uso de bibliotecas para validação de dados.
 	- [ ] Documentação: Documentação de APIs com Swagger ou similar.
