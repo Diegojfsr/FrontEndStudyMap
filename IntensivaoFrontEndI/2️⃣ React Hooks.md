@@ -20,12 +20,12 @@
 	- [ ] Reutilização de Lógica: Uso de hooks personalizados para reutilizar lógica.
 	- [ ] Exemplos Práticos: Criação de alguns hooks personalizados.
 
-- [ ] Dia 5: Casos de Uso Avançados [[2️⃣.5️⃣ Casos de Uso Avancados]]
+- [ ] Dia 5: [[2️⃣.5️⃣ Casos de Uso Avancados]]
 	- [ ] Hooks em Componentes de Classe: Como migrar componentes de classe para hooks.
 	- [ ] Gerenciamento de Estado Global: Uso de hooks com Context API para estado global.
 	- [ ] Performance: Técnicas para otimizar a performance com hooks.
 
-- [ ] Dia 6: Testes e Debugging
+- [ ] Dia 6: [[2️⃣.6️⃣ Testes e Debugging]]
 	- [ ] Testes de Hooks: Como testar hooks com bibliotecas como React Testing Library.
 	- [ ] Debugging: Ferramentas e técnicas para depurar hooks.
 	- [ ] Boas Práticas: Melhores práticas para escrever hooks eficientes e legíveis.
