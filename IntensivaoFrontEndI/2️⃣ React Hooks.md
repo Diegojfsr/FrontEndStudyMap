@@ -30,6 +30,6 @@
 	- [ ] Debugging: Ferramentas e técnicas para depurar hooks.
 	- [ ] Boas Práticas: Melhores práticas para escrever hooks eficientes e legíveis.
 
-- [ ] Dia 7: Projeto Prático
+- [ ] Dia 7: [[2️⃣.7️⃣ Projeto Pratico]]
 	- [ ] Projeto Final: Crie um pequeno projeto para aplicar o que aprendeu.
 	- [ ] Revisão: Revise os conceitos e resolva dúvidas.
