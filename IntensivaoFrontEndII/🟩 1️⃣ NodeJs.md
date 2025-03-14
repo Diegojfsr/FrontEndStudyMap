@@ -37,7 +37,7 @@
 	- [ ] Documentação: Documentação de APIs com Swagger ou similar.
 
 
-- [ ] Dia 7: [[1️⃣.7️⃣ Projeto Pratico]]
+- [ ] Dia 7: [[🟩 1️⃣.7️⃣ Projeto Pratico]]]
 	- [ ] Projeto Final: Crie um pequeno projeto para aplicar o que aprendeu.
 	- [ ] Revisão: Revise os conceitos e resolva dúvidas.
 
