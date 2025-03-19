@@ -1,20 +1,19 @@
 
 
-
-- [ ] useState
-- [ ] useEffect
-- [ ] useContext 
-- [ ] useReducer
-- [ ] useRef
-- [ ] useMemo
-- [ ] useEffect
-- [ ] useLayoutEffect
-- [ ] Hooks Personalizados
-- [ ] Componentes de Classe
-- [ ] Gerenciamento de Estado Global
-- [ ] Hooks com Context API
-- [ ] Técnicas para otimizar a performance 
-- [ ] Testes de Hooks
-- [ ] React Testing Library
-- [ ] Depurar Hooks
-- [ ] Debugging de Hooks
+- [ ]  [[1️⃣.0️⃣1️⃣ useState]]
+- [ ]  [[1️⃣.0️⃣2️⃣ useEffect]]
+- [ ]  [[1️⃣.0️⃣3️⃣ useContext]]
+- [ ]  [[1️⃣.0️⃣4️⃣ useReducer]]
+- [ ]  [[1️⃣.0️⃣5️⃣ useRef]]
+- [ ]  [[1️⃣.0️⃣6️⃣ useMemo]]
+- [ ]  [[1️⃣.0️⃣7️⃣ useEffect]]
+- [ ]  [[1️⃣.0️⃣8️⃣ useLayoutEffect]]
+- [ ]  [[1️⃣.0️⃣9️⃣ Hooks Personalizados]]
+- [ ]  [[1️⃣.1️⃣0️⃣ Componentes de Classe]]
+- [ ]  [[1️⃣.1️⃣1️⃣ Gerenciamento de Estado Global]]
+- [ ]  [[1️⃣.1️⃣2️⃣ Hooks com Context API]]
+- [ ]  [[1️⃣.1️⃣3️⃣ Tecnicas para otimizar a performance]]
+- [ ]  [[1️⃣.1️⃣4️⃣ Testes de Hooks]]
+- [ ]  [[1️⃣.1️⃣5️⃣ React Testing Library]]
+- [ ]  [[1️⃣.1️⃣6️⃣ Depurar Hooks]]
+- [ ]  [[1️⃣.1️⃣7️⃣ Debugging de Hooks]]
