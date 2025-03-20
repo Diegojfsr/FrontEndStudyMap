@@ -2,7 +2,7 @@
 
 
 3.1 Fundamentos do React
-- [ ] JSX (JavaScript XML): É uma extensão de sintaxe do JavaScript usada para criar componentes React. Entenda como misturar HTML e JavaScript.
+- [ ] [[3.1.1  JSX, JavaScript XML]] É uma extensão de sintaxe do JavaScript usada para criar componentes React. Entenda como misturar HTML e JavaScript.
 - [ ] Componentes e Props: Aprenda a criar componentes reutilizáveis e a passar dados para eles usando props.
 - [ ] Estado e Ciclo de Vida: Explore como gerenciar estados locais nos componentes e os métodos do ciclo de vida, como componentDidMount e componentWillUnmount.
 - [ ] Eventos no React: Manipule eventos como cliques e envios de formulários de maneira declarativa.
